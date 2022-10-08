@@ -1,4 +1,4 @@
-# #Aplikasi biodata sederhana
+# Aplikasi biodata sederhana
 
 nama = "siti nurviatika"
 kelas = "TI22A"
